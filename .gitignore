@@ -1,0 +1,32 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE - NetBeans
+nbproject/
+build/
+dist/
+build.xml
+manifest.mf
+
+# IDE - IntelliJ
+.idea/
+*.iml
+out/
+
+# IDE - Eclipse
+.classpath
+.project
+.settings/
+
+# IDE - VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
